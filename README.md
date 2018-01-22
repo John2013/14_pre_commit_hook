@@ -34,6 +34,8 @@ $ python tests.py  # может понадобиться вызов python3 вм
 После этого при коммите будет запускаться тест и коммит прервётся, если
 тест не будет пройден
 
-# Project Goals
+# Цель проекта
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код написан в целях обучения.
+
+[DEVMAN.org](https://devman.org)
