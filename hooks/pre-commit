@@ -1,3 +1,4 @@
 #/bin/sh
 
-python3 ../../tests.py
+PYTHON=$(which python3)
+$PYTHON tests.py
